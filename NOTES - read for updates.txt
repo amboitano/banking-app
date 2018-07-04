@@ -1,0 +1,9 @@
+As of the morning of 7/01
+
+Things that Work:
+- finished Show Balance and Print Statement butons
+- clear button works (although it may not be the most efficient method)
+- exit button works
+
+Main Problems 
+- displaying exception pop-ups for withdrawls (I can't get them to actually pop up or alert the user that they are doing something wrong ... but I know that the BankAccount withdrawl method works because if you try to withdraw too much and then "Print Statement", it displays overdrafts/fees. The alerts from the exceptions aren't working for me)
